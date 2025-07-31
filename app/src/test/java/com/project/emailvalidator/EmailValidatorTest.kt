@@ -1,4 +1,5 @@
-package project.group6.emailvalidator
+package com.project.emailvalidator
+
 
 import org.junit.Assert.*
 import org.junit.Test

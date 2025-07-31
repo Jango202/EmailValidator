@@ -1,4 +1,5 @@
-package project.group6.emailvalidator
+package com.project.emailvalidator
+
 
 object EmailValidator {
     fun isValidEmail(email: String?): Boolean {
